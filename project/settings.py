@@ -25,7 +25,7 @@ SECRET_KEY = '55ew+t#p9_yuk9xpi(+k4j(0&q3+0=ufm7ow^&+ms__x(x9@wj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['justeasydjango.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1']
 
 SECRET_KEY='068f583aeb204c46add81a74a5cbcd10ede6cab3dd761aa2'
 # Application definition
